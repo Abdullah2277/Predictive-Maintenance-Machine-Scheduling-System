@@ -139,8 +139,6 @@ RL_Project/
 streamlit run dashboard/app.py
 ```
 
-Opens at `http://localhost:8501`
-
 ### Option 2 — Reproduce Training from Scratch
 
 **Step 1 — Generate LSTM training data:**
